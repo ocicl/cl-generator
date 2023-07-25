@@ -1,0 +1,10 @@
+* cl-generator
+
+generator in common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ukari/cl-generator.git   |
+| commit  | 80789ca  |
+| systems | cl-generator |
+|---------+-------------------------------------------|
+
